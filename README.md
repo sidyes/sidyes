@@ -71,7 +71,7 @@
   <a href="https://www.xing.com/profile/Stefan_Herpich2/cv">
     <img  alt="Xing" width="22px" src="https://raw.githubusercontent.com/sidyes/archive/master/img/xing.svg"/>
   &nbsp&nbsp&nbsp&nbsp
-  <a href=https://www.instagram.com/stfn_hrpch">
+  <a href="https://www.instagram.com/stfn_hrpch">
     <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/sidyes/archive/master/img/instagram.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
